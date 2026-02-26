@@ -313,3 +313,4 @@ Want to try higher performance AutoML without writing code? Try:
 https://cloud.google.com/automl-tables
 git checkout branch1! ИЗМЕНЕНИЕ В BRANCH1: Строка от Viktor
 git commit -m branch1: изменение 1! ИЗМЕНЕНИЕ В BRANCH1: Ещё одна строка
+git commit -m branch1: изменение 2! ИЗМЕНЕНИЕ В BRANCH1: И последняя строка
